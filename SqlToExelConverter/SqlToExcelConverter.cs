@@ -3,7 +3,7 @@ using System.Data.SqlClient;
 using ClosedXML.Excel;
 
 
-namespace SqlToExelConverter
+namespace SqlToExcelConverter
 {
     public static class SqlToExcelConverter
     {

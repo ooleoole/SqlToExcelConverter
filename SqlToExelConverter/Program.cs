@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SqlToExelConverter
+namespace SqlToExcelConverter
 {
     public class Program
     {
